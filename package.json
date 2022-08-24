@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Infiniwild/wdb-simple-heroku.git"
+    "url": "git+https://github.com/joshgamache/wdb-simple-heroku.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Infiniwild/wdb-simple-heroku/issues"
+    "url": "https://github.com/joshgamache/wdb-simple-heroku/issues"
   },
-  "homepage": "https://github.com/Infiniwild/wdb-simple-heroku#readme",
+  "homepage": "https://github.com/joshgamache/wdb-simple-heroku#readme",
   "dependencies": {
     "ejs": "^2.6.2",
     "express": "^4.17.1"
